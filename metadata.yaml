@@ -1,0 +1,26 @@
+_repo: The-Story-of-Ireland_11917
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawless, Emily
+    birthdate: 1845
+    deathdate: 1913
+    gutenberg_agent_id: '4132'
+    url: http://www.gutenberg.org/2009/agents/4132
+    wikipedia: http://en.wikipedia.org/wiki/Emily_Lawless
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- History'
+- !lcc 'DA'
+- GITenberg
+title: The Story of Ireland
+url: http://www.gutenberg.org/ebooks/11917
